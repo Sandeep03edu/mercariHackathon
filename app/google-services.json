@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839470919112",
+    "project_id": "techmeet-a7d77",
+    "storage_bucket": "techmeet-a7d77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839470919112:android:de3d52ab23ee2723c224fd",
+        "android_client_info": {
+          "package_name": "com.techmeet.mercari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839470919112-kav3d69h1m0klue9r5r5auuv3amvfdbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDsCCqZV6rUlP654MugYVh2hzc6WzpaqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839470919112-kav3d69h1m0klue9r5r5auuv3amvfdbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
